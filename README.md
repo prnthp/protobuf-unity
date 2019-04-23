@@ -33,8 +33,8 @@ So it is recommended to get the latest version!
 
 ## Installation 
 
-1. Put files in your Unity project
-2. You can access the settings in Preferences > Protobuf. Here you *need* to put a path to your `protoc` executable.
+1. Clone the repository into your Packages folder in your Unity project folder. (``Packages/protobuf-unity/``)
+2. Access the settings in Preferences > Protobuf and **specify the path to your `protoc` executable.**
 
 ![settings](https://github.com/5argon/protobuf-unity/raw/master/images/settings.png)
 
